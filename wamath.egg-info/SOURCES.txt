@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+wamath/__init__.py
+wamath/a.py
+wamath/wamath.py
+wamath.egg-info/PKG-INFO
+wamath.egg-info/SOURCES.txt
+wamath.egg-info/dependency_links.txt
+wamath.egg-info/top_level.txt

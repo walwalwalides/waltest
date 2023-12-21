@@ -1,1 +1,1 @@
-from walmath.calcule import Test
+from wamath import Test
