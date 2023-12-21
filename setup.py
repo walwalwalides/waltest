@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A test package.'
 
 # Setting up
 setup(
-    name="waltest",
+    name="wamath",
     version=VERSION,
     author="walwalwalides",
     author_email="<walwalwalides@gmail.com>",

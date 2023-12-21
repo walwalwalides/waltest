@@ -1,10 +1,10 @@
 LICENSE
 README.md
 setup.py
-waltest/__init__.py
-waltest/a.py
-waltest/walmath.py
 waltest.egg-info/PKG-INFO
 waltest.egg-info/SOURCES.txt
 waltest.egg-info/dependency_links.txt
 waltest.egg-info/top_level.txt
+wamath/__init__.py
+wamath/a.py
+wamath/wamath.py
